@@ -1,3 +1,9 @@
+# v1.0.1
+## 03/20/2025
+
+1. [](#improved)
+    * Added pagination, translate-date and twig-extensions plugins
+
 # v1.0.0
 ## 03/18/2025
 
