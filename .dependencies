@@ -31,6 +31,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
@@ -39,6 +43,14 @@ git:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
         branch: master
+    translate-date:
+        url: https://github.com/Karmalakas/grav-plugin-translate-date
+        path: user/plugins/translate-date
+        branch: main
+    twig-extensions:
+        url: https://github.com/bitstarr/grav-plugin-twig-extensions
+        path: user/plugins/twig-extensions
+        branch: main
     delivernext:
         url: https://github.com/pmoreno-rodriguez/grav-theme-delivernext
         path: user/themes/delivernext
@@ -76,6 +88,10 @@ links:
         src: grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github  
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
@@ -83,6 +99,14 @@ links:
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
+        scm: github
+    translate-date:
+        src: grav-plugin-translate-date
+        path: user/plugins/translate-date
+        scm: github
+    twig-extensions:
+        src: grav-plugin-twig-extensions
+        path: user/plugins/twig-extensions
         scm: github
     delivernext:
         src: grav-theme-delivernext
