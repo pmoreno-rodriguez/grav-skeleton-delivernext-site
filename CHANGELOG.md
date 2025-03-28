@@ -1,3 +1,10 @@
+# v1.0.2
+## 03/28/2025
+
+1. [](#improved)
+    * Updated blog items
+    * Added blog route to Archives plugin 
+  
 # v1.0.1
 ## 03/20/2025
 
