@@ -11,6 +11,7 @@ show_featured_image: true
 big_header: false
 sitemap:
     lastmod: '04-02-2025 21:23'
+blog_url: /blog
 ---
 
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis.
