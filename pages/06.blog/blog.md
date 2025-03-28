@@ -28,5 +28,6 @@ bg_color: '#B4B093'
 title_bg_choice: color
 title_text_color: '#ffffff'
 title_bg_color: '#407063'
+sidebar_content: "#### Some Text Widget\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 ---
 

@@ -1,11 +1,19 @@
 ---
-title: Random Thoughts
-date: 13:34 05/26/2014 
-author: Stephan Douglas
-body_classes: header-lite fullwidth blogstyling
+title: 'Random Thoughts'
+date: '13:34 05/26/2014'
+author: 'Stephan Douglas'
+body_classes: 'header-lite fullwidth blogstyling'
 taxonomy:
-    category: blog
-    tag: [journal]
+    category:
+        - blog
+    tag:
+        - journal
+show_title: '1'
+title_bg_choice: color
+show_featured_image: true
+big_header: true
+feed:
+    limit: 10
 ---
 
 Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus.
