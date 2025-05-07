@@ -1,3 +1,9 @@
+# v1.0.3
+## 05/07/2025
+
+1. [](#bugfix)
+    * Fixed missing theme settings
+
 # v1.0.2
 ## 03/28/2025
 
